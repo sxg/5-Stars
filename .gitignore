@@ -2,3 +2,4 @@ node_modules
 /ImageRatings.csv
 *.csv
 /5 Stars-darwin-x64
+/5 Stars-win32-x64 
