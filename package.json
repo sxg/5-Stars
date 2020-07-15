@@ -28,7 +28,7 @@
   "dependencies": {
     "jquery": "^3.2.1",
     "json2csv": "^3.11.5",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "mousetrap": "^1.6.1",
     "sanitize-filename": "^1.6.1",
     "semantic-ui": "^2.2.13"
